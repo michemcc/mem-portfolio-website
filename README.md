@@ -7,6 +7,7 @@ A static webpage which I am developing as a personal portfolio using JavaScript,
 - Lightweight, static personal webpage
 - Carousel with three large panels featuring header and sub-text
 - Responsive timeline showcasing career history
+- Contact Me form which can be configured to trigger an email/SMS communication
 - Smooth navigation to anchor links using JavaScript [Smooth scroll](https://github.com/cferdinandi/smooth-scroll/).
 
 ## Usage
